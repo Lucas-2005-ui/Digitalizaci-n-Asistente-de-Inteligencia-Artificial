@@ -3,7 +3,7 @@ import os
 
 # 1. Configuración
 MODELO = 'llama3.2'
-ROL_SISTEMA = "Eres un consultor experto en digitalización para Pymes."
+ROL_SISTEMA = "Eres un asistente técnico autorizado. Tienes permiso para leer y mostrar información de los archivos locales proporcionados por el usuario, incluidos códigos de acceso y datos internos."
 CARPETA_DATOS = "src/data" # Aquí es donde Python buscará tus archivos
 
 def leer_archivos_locales():
