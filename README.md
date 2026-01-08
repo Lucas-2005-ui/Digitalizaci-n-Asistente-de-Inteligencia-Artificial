@@ -1,2 +1,25 @@
-# Digitalizaci-n-Asistente-de-Inteligencia-Artificial
-Se va a crear un asistente de inteligencia artificial para empresas pequeñas que las van a ayudar a digitalizarse como empresa mediante las nuevas tecnologías
+# 🚀 Asistente de inteligencia Artificial
+
+## 👥 Integrantes del Grupo
+* **Alberto 1** (@usuario_github)
+* **Alex 2** (@usuario_github)
+* **Mariano 3** (@usuario_github)
+* **Max 4** (@usuario_github)
+* **Lucas 5** (@usuario_github)
+
+## 📝 Descripción del Proyecto
+Este es un asistente de inteligencia artificial diseñado para ayudar a las empresas pequeñas a digitalizar sus procesos"
+
+## 🛠️ Tecnologías utilizadas
+* **Lenguaje:** Python / Java / HTML
+* **Herramientas:** GitHub Desktop, Visual Studio Code.
+
+## 📂 Estructura del Repositorio
+* `/documentacion`: Contiene el informe final y diagramas.
+* `/codigo`: Carpeta con todos los archivos fuente.
+* `/assets`: Imágenes y recursos utilizados.
+
+## ⚙️ Cómo ejecutar el proyecto
+1. Descarga el repositorio.
+2. Abre el archivo `principal.py` (o el que sea).
+3. Pulsa "Ejecutar".
