@@ -11,7 +11,7 @@
 Este es un asistente de inteligencia artificial diseñado para ayudar a las empresas pequeñas a digitalizar sus procesos"
 
 ## 🛠️ Tecnologías utilizadas
-* **Lenguaje:** Python / Java / HTML
+* **Lenguaje:** Python / Ollama
 * **Herramientas:** GitHub Desktop, Visual Studio Code.
 
 ## 📂 Estructura del Repositorio
