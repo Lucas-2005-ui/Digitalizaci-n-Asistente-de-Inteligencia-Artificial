@@ -16,10 +16,10 @@ Este es un asistente de inteligencia artificial diseñado para ayudar a las empr
 
 ## 📂 Estructura del Repositorio
 * `/documentacion`: Contiene el informe final y diagramas.
-* `/codigo`: Carpeta con todos los archivos fuente.
+* `/src`: Carpeta con todos los archivos fuente.
 * `/assets`: Imágenes y recursos utilizados.
 
 ## ⚙️ Cómo ejecutar el proyecto
-1. Descarga el repositorio.
-2. Abre el archivo `principal.py` (o el que sea).
-3. Pulsa "Ejecutar".
+1. Instalar Ollama
+2. Ejecutar pip install ollama.
+3. Ejecutar el script principal de Python.
